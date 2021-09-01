@@ -1,2 +1,3 @@
 This is sample 2 
 This is the comparison test2
+Stash testing in file 2
